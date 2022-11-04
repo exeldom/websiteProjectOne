@@ -1,0 +1,22 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+body {
+  background-color: #ffb9b9;
+  font-family: "Helvetica", Montserrat;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+#product-example {
+  padding-top: 20px;
+}
+
+.carousel-inner {
+  text-align: center;
+}
+
+.images-example {
+  height: 80%;
+}
